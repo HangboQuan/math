@@ -1,2 +1,2 @@
 # math
-Record some math knowledge about computer
+Record some useful math knowledge about computer
